@@ -2,8 +2,8 @@
 ## In my school work, I have experience in Java, React, SQL, and some experience in C and functional languages such as Prolog and Elixir
 
 # School projects
-[CultureGO](https://github.com/team-charlie-dev/CultureGO)
-[Birdr](https://github.com/Rezaavoor/Birdr)
+[CultureGO](https://github.com/team-charlie-dev/CultureGO)_
+[Birdr](https://github.com/Rezaavoor/Birdr)_
 [Database for fictional school](https://github.com/Ponn3Ponn3/IV1351)
 <!--
 **Ponn3Ponn3/Ponn3Ponn3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
